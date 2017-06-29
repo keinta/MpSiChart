@@ -17,3 +17,6 @@ http://seeweekpublic.oss-cn-shanghai.aliyuncs.com/OpenCode/MpSiChart.apk
  [点此查看Git源码 DEMO](http://47.94.146.234/git/)
  
   ![Image text](http://note.youdao.com/favicon.ico)
+  
+  ![Image text](http://seeweekpublic.vpc100-oss-cn-shanghai.aliyuncs.com/OpenCode/MpSiChartAppDown.png)
+  
