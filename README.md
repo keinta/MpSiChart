@@ -8,7 +8,7 @@
 ![Image text](http://vpcpublic.oss-cn-beijing.aliyuncs.com/publicshar/mp1_gif.gif)
 
 
-[app 下载URL](http://seeweekpublic.oss-cn-shanghai.aliyuncs.com/OpenCode/MpSiChart.apk)
+[app 下载URL](http://vpcpublic.oss-cn-beijing.aliyuncs.com/publicshar/MpSiChart.apk)
 
 
 
