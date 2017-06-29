@@ -24,3 +24,9 @@ proguard/
 
 #Log Files
 *.log
+/OpenCodeMpSiChart/*.gradle
+/OpenCodeMpSiChart/*
+/OpenCodeMpSiChart/*.bat
+/OpenCodeMpSiChart/*.txt
+/OpenCodeMpSiChart/*.properties
+/OpenCodeMpSiChart/*.apk
