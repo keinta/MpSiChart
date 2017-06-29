@@ -5,7 +5,7 @@
 以下是从右向左滑动效果：
 
 
-![Image text](http://vpcpublic.vpc100-oss-cn-beijing.aliyuncs.com/publicshar/mp1_gif.gif)
+![Image text](http://vpcpublic.oss-cn-beijing.aliyuncs.com/publicshar/mp1_gif.gif)
 
 
 [app 下载URL](http://seeweekpublic.oss-cn-shanghai.aliyuncs.com/OpenCode/MpSiChart.apk)
